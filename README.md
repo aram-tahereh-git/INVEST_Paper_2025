@@ -1,2 +1,2 @@
 # INVEST_Paper_2025
-This repository contains all data and resources supporting the findings presented in the paper "Inverting Singlet–Triplet Gaps by Design".
+This repository contains all data and resources supporting the findings presented in the paper "Inverting Singlet–Triplet Gaps by Design" by Lucas Rivera Blair and Tahereh Nematiaram.
