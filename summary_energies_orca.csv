@@ -1,0 +1,16 @@
+Moelcule,SP_Energy_Ha,SA-CASSCF_S1,SA-CASSCF_S2,SA-CASSCF_T1,SA-CASSCF_T2,NEVPT2_S1,NEVPT2_S2,NEVPT2_T1,NEVPT2_T2
+6F-B-phenalene_optimized_out.out,-1081.206596558083,1.668,4.292,1.748,2.901,1.465,3.396,1.719,2.501
+3Me-N-phenalene_optimized_out.out,,1.427,3.915,1.475,2.657,,,,
+Con-2N-U_optimized_out.out,,0.855,3.135,1.007,2.499,,,,
+3N-B-phenalene_optimized_out.out,,2.13,3.39,2.154,3.01,,,,
+X-N-phenalene_optimized_out.out,-631.549119541778,0.876,3.387,0.951,2.145,1.04,2.944,1.148,1.926
+6F-2N-U_optimized_out.out,-1548.994104271515,1.832,2.058,1.871,1.999,1.329,1.443,1.521,1.574
+6Me-2N-U_optimized_out.out,-1189.575347756775,1.619,1.917,1.794,2.001,1.541,1.598,1.621,1.651
+3F-N-phenalene_optimized_out.out,-813.669232345236,1.494,3.968,1.653,2.77,1.467,3.357,1.627,2.448
+N-phenalene_optimized_out.out,-516.282720827272,1.012,3.779,1.038,2.539,0.972,3.229,1.122,2.144
+6Me-B-phenalene_optimized_out.out,-721.743300483958,1.253,3.759,1.37,2.482,1.212,3.282,1.363,2.218
+Con-2N-Z_optimized_out.out,-840.104320055572,0.822,3.098,0.918,2.173,1.042,2.672,1.112,1.907
+6Me-N-phenalene_optimized_out.out,,1.334,3.648,1.367,2.365,,,,
+B-phenalene_optimized_out.out,,0.891,3.738,0.968,2.374,,,,
+6F-2B-U_optimized_out.out,-1489.268746506964,0.969,1.457,1.021,1.458,0.999,1.237,1.129,1.311
+Con-2B-U_optimized_out.out,-780.254586719478,0.871,2.558,0.882,1.844,0.77,2.872,1.005,2.172
